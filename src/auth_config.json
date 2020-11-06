@@ -1,4 +1,6 @@
 {
   "domain": "dev-pa7peypo.us.auth0.com",
-  "clientId": "mFHh4xw2C8NNo1dBIBgU4DwLjTVtzAV8"
+  "clientId": "mFHh4xw2C8NNo1dBIBgU4DwLjTVtzAV8",
+  "audience": "https://main.d22ez5f17fj2oj.amplifyapp.com/"
+  
 }
